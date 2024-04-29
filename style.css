@@ -108,9 +108,7 @@ text-align: center;
         font-family: "Poppins", sans-serif;
         background-color: grey;
     background-repeat: repeat;
-    /* background-image:url); */
     background-size: cover;
-    background-image: url(./images/pngtree-3d-illustration-of-stopwatch-image_13570039.png);
     background-repeat: no-repeat;
     }
 }
